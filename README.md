@@ -17,11 +17,13 @@
 
 ## Technologies Used 💻
 
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="18"/> React 18
-- <img src="https://img.icons8.com/color/48/000000/css3.png" width="18"/> CSS3 Modules
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="18"/> JavaScript (ES6+)
-- <img src="https://img.icons8.com/fluency/48/000000/node-js.png" width="18"/> npm Package Manager
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="18"/> VS Code
+![React](https://img.icons8.com/color/30/000000/react-native.png) React 18  
+![CSS3](https://img.icons8.com/color/30/000000/css3.png) CSS Modules  
+![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript (ES6+)  
+![Node.js](https://img.icons8.com/fluency/30/000000/node-js.png) npm  
+![VS Code](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png) VS Code
+
+*Icons by [Icons8](https://icons8.com)*
 
 ## Installation & Setup 🛠️
 
