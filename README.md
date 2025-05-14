@@ -17,13 +17,11 @@
 
 ## Technologies Used 💻
 
-![React](https://img.icons8.com/color/30/000000/react-native.png) React 18  
-![CSS3](https://img.icons8.com/color/30/000000/css3.png) CSS Modules  
-![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript (ES6+)  
-![Node.js](https://img.icons8.com/fluency/30/000000/node-js.png) npm  
-![VS Code](https://img.icons8.com/color/30/000000/visual-studio-code-2019.png) VS Code
-
-*Icons by [Icons8](https://icons8.com)*
+1. [React]
+2. [CSS3]
+3. [JavaScript] 
+4. [Node.js]
+5. [VS Code]
 
 ## Installation & Setup 🛠️
 
