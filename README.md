@@ -34,6 +34,8 @@
    ```bash
    cd portfolio-website
    npm install
+   npm init -y #automatic packages file generation
+   npm install react react-dom react-scripts react-router-dom particles-js animations.css
    ```
 
 3. **Start development server**
